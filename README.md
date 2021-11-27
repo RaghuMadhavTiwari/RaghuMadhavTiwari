@@ -1,14 +1,3 @@
-- 👋 Hi, I’m @RaghuMadhavTiwari
-- 👀 I’m interested in Data Science.
-- 🌱 I’m currently learning Machine Learning and working on projects.
-- 💞️ I’m looking to collaborate on projects and competitions of Data Science related domain.
-- 📫 You can reach me via mail raghutwr1@gmail.com.
-<p align="center">
-  <img src="https://s27389.pcdn.co/wp-content/uploads/2019/08/AdobeStock_244675452.jpeg" height="200"/>
-</p>
-<br>
-
-
 
 <hr>
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I am Raghu Madhav Tiwari </h1>
@@ -23,8 +12,8 @@
 
 <p align="center">
   <em>
-    Hello, I am Raghu Madhav Tiwari a <b>final year</b> undergraduate from <a href="http://www.du.ac.in/"> <b>University Of Delhi</b>, India ("Nishtha Dhriti Satyam ")</a>. <br>
-    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Machine Learning Engineer</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
+    Hello, I am Raghu Madhav Tiwari a <b>final year</b> postgraduate from <a href="http://www.du.ac.in/"> <b>University Of Delhi</b>, India ("Nishtha Dhriti Satyam ")</a>. <br>
+    <b>a passionate self-learner</b> <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="30px"> and a <b>Data Analyst Intern</b>&nbsp;<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Designer.gif" width="36px">&nbsp,<br>who is <b>obsessed</b>
     with <b>Data science</b> and always looking to find patterns of which are hidden in the data 
   </em> 
   <br>
@@ -50,6 +39,8 @@
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg"> </code>
   <code> <img height="50" src="https://matplotlib.org/2.2.5/_images/sphx_glr_logos2_001.png" width='100'> </code>
   <code> <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/768px-Pandas_logo.svg.png"> </code>
+  <code> <img height="50" src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png"></code>
+  <code> <img height="50" src="https://1000logos.net/wp-content/uploads/2020/08/Microsoft-Excel-Logo-2013.jpg"></code>
   <code> <img height="50" src="https://www.vectorlogo.zone/logos/numpy/numpy-ar21.svg"> </code>
   <code> <img height="50" src="https://raw.githubusercontent.com/valohai/ml-logos/master/scipy.svg"> </code>
   <code> <img height="50" src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png"> </code>
